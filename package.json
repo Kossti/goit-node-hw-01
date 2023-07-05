@@ -15,6 +15,10 @@
   "keywords": [],
   "author": "Kossti",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kossti/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/Kossti/goit-node-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
